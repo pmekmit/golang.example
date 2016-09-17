@@ -19,9 +19,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/golang/example/stringutil"
+	"github.com/themrtimkemp/golang.example/stringutil"
 )
 
 func main() {
-	fmt.Println(stringutil.Reverse("!selpmaxe oG ,olleH"))
+	fmt.Println(stringutil.Reverse("! miT selpmaxe oG ,olleH"))
 }
